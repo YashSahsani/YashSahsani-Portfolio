@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/YashSahsani-Portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/YashSahsani-Portfolio/static/js/main.66203850.js",
+    "main.css": "/YashSahsani-Portfolio/static/css/main.161d60db.css",
+    "main.js": "/YashSahsani-Portfolio/static/js/main.57a2c6e2.js",
     "static/js/787.1f11dfe9.chunk.js": "/YashSahsani-Portfolio/static/js/787.1f11dfe9.chunk.js",
-    "static/media/logo.svg": "/YashSahsani-Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/website-setup-project-2.svg": "/YashSahsani-Portfolio/static/media/website-setup-project-2.d68a684958b788bcb2d3002f7627695e.svg",
+    "static/media/Programming-bro.svg": "/YashSahsani-Portfolio/static/media/Programming-bro.2a8e9b45ce4270d95ef998df8b48ac48.svg",
+    "static/media/Adarsh-Tripathi-Resume-July-Updated.pdf": "/YashSahsani-Portfolio/static/media/Adarsh-Tripathi-Resume-July-Updated.4143777c522f5d968006.pdf",
+    "static/media/website-setup-project-1.svg": "/YashSahsani-Portfolio/static/media/website-setup-project-1.a7daad0ec5cc660c036d488aee49217f.svg",
+    "static/media/twitter.svg": "/YashSahsani-Portfolio/static/media/twitter.11e01a2444b7986dcd69dd0aa41b0855.svg",
+    "static/media/instagram.svg": "/YashSahsani-Portfolio/static/media/instagram.00aa55adb0691d837add719407b202c8.svg",
+    "static/media/github.svg": "/YashSahsani-Portfolio/static/media/github.8c10b34bab024f4ee453128cdd10879a.svg",
     "index.html": "/YashSahsani-Portfolio/index.html",
-    "main.073c9b0a.css.map": "/YashSahsani-Portfolio/static/css/main.073c9b0a.css.map",
-    "main.66203850.js.map": "/YashSahsani-Portfolio/static/js/main.66203850.js.map",
+    "static/media/linkedin.svg": "/YashSahsani-Portfolio/static/media/linkedin.587b43f4393d83476b496fdc1fd5e669.svg",
+    "static/media/facebook.svg": "/YashSahsani-Portfolio/static/media/facebook.c19cc44a007fc8c66ae0a5d9d187d809.svg",
+    "main.161d60db.css.map": "/YashSahsani-Portfolio/static/css/main.161d60db.css.map",
+    "main.57a2c6e2.js.map": "/YashSahsani-Portfolio/static/js/main.57a2c6e2.js.map",
     "787.1f11dfe9.chunk.js.map": "/YashSahsani-Portfolio/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.66203850.js"
+    "static/css/main.161d60db.css",
+    "static/js/main.57a2c6e2.js"
   ]
 }
