@@ -43,6 +43,10 @@ export const SkillsData = [
                 name: "Python",
                 icon: <i class="devicon-python-plain colored"></i>
 
+            },{
+                name: "Typescript",
+                icon: <i class="devicon-typescript-plain colored"></i>
+
             },
         ],
     },
