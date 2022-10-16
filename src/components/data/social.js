@@ -4,7 +4,7 @@ export const SocialData = [
         //property
         platform:"Github",
         icon: require('../../assets/images/icons/github.svg').default,
-        link:"https://github.com/YashSahsan",
+        link:"https://github.com/YashSahsani",
     },
     {
         //property

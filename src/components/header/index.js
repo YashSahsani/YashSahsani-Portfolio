@@ -8,7 +8,7 @@ function Header() {
     return (
         <div className="header">
          <div className="logo">
-         👋I' M Adarsh Tripathi
+         👋I' M Yash Sahsani
          </div>
          <div className="menu">
            <div className="web-menu">

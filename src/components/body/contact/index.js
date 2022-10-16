@@ -13,7 +13,7 @@ function Contact() {
              <SocialContact />
             </div>
             <div className="download-resume">
-                <a href={require("../../../assets/pdf/Adarsh-Tripathi-Resume-July-Updated.pdf").default}>
+                <a href={require("../../../assets/pdf/Yash_Sahsani.pdf").default}>
                 <i class="fi-rr-cloud-download download-icon"></i>
                   Download Resume
                 </a> 

@@ -4,7 +4,7 @@ import "./footer.css"
 function Footer() {
     return (
         <div className="footer">
-         🔥 Made with ❤️ by 💻 Adarsh Tripathi
+         🔥 Made with ❤️ by 💻 Yash Sahsani
         </div>
     )
 }

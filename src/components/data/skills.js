@@ -47,6 +47,22 @@ export const SkillsData = [
                 name: "Typescript",
                 icon: <i class="devicon-typescript-plain colored"></i>
 
+            },{
+                name: "Solidity",
+                icon: <i class="devicon-solidity-plain colored"></i>
+
+            },{
+                name: "PHP",
+                icon: <i class="devicon-php-plain colored"></i>
+
+            },{
+                name: "NestJS",
+                icon: <i class="devicon-nestjs-plain colored"></i>
+
+            },{
+                name: "Ruby",
+                icon: <i class="devicon-ruby-plain colored"></i>
+
             },
         ],
     },
