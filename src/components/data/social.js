@@ -17,7 +17,13 @@ export const SocialData = [
         platform:"Instagram",
         icon: require('../../assets/images/icons/instagram.svg').default,
         link:"https://www.instagram.com/yash_sahsani/",
+    },    {
+        //property
+        platform:"Medium",
+        icon: require('../../assets/images/icons/medium.svg').default,
+        link:"https://yashsahsani.medium.com",
     },
+
 
    
 ];

@@ -8,7 +8,7 @@ function About() {
            <div className="about-top">
             <div className="about-info">
             Hello There 👋, I am <br/> <span className="info-name">Yash Sahsani</span>. 
-            <br/>I love experimenting with the web.
+            <br/>I am Full Stack Developer and Cybersecurity enthusiast.
             </div>
             <div className="about-photo">
               {/* image not loading because you can use create react app so it is webpack, so webpack needs some extra parameter to load the image of local, so we use .default to load the local image on localhost and browsers */}
