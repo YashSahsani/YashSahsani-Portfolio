@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/YashSahsani-Portfolio/static/css/main.161d60db.css",
-    "main.js": "/YashSahsani-Portfolio/static/js/main.ccf611b1.js",
+    "main.js": "/YashSahsani-Portfolio/static/js/main.f6d7dd4c.js",
     "static/js/787.1f11dfe9.chunk.js": "/YashSahsani-Portfolio/static/js/787.1f11dfe9.chunk.js",
     "static/media/website-setup-project-2.svg": "/YashSahsani-Portfolio/static/media/website-setup-project-2.d68a684958b788bcb2d3002f7627695e.svg",
     "static/media/Programming-bro.svg": "/YashSahsani-Portfolio/static/media/Programming-bro.2a8e9b45ce4270d95ef998df8b48ac48.svg",
@@ -13,11 +13,11 @@
     "index.html": "/YashSahsani-Portfolio/index.html",
     "static/media/linkedin.svg": "/YashSahsani-Portfolio/static/media/linkedin.587b43f4393d83476b496fdc1fd5e669.svg",
     "main.161d60db.css.map": "/YashSahsani-Portfolio/static/css/main.161d60db.css.map",
-    "main.ccf611b1.js.map": "/YashSahsani-Portfolio/static/js/main.ccf611b1.js.map",
+    "main.f6d7dd4c.js.map": "/YashSahsani-Portfolio/static/js/main.f6d7dd4c.js.map",
     "787.1f11dfe9.chunk.js.map": "/YashSahsani-Portfolio/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.161d60db.css",
-    "static/js/main.ccf611b1.js"
+    "static/js/main.f6d7dd4c.js"
   ]
 }
